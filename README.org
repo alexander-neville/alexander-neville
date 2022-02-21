@@ -2,7 +2,7 @@
 #+TITLE: Welcome to my Github page!
 #+AUTHOR: Alexander Neville
 
-Hello my name is Alex. I am secondary school student in Reading, Southern England. Lately, I have been both quite busy and very lazy. As a result, I haven't spent nearly as much time as I would have liked on programming. In the near future I plan to complete many more interesting projects...
+Hello, my name is Alex. I am secondary school student in Reading, England. Lately, I have been both quite busy and very lazy. As a result, I haven't spent nearly as much time as I would have liked on programming. In the near future I plan to complete many more interesting projects...
 
 I have used *GNU/Linux* on my devices for the last 2 years, in which time I have installed Ubuntu, Fedora, Debian, Gentoo and Arch on physical hardware and virtualised many other distros. My other interest include:
 
