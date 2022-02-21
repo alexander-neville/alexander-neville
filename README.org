@@ -1,1 +1,25 @@
-Hello!
+
+#+TITLE: Welcome to my Github page!
+#+AUTHOR: Alexander Neville
+
+Hello my name is Alex. I am secondary school student (final year now) in Reading, Southern England. Computer Science and programming are interests of mine and I would like to study both in greater depth in the future. Lately, I have been both quite busy and very lazy. As a result, I haven't spent nearly as much time as I would have liked on programming. In the near future I plan to complete many more interesting projects...
+
+I have used *GNU/Linux* on my devices for the last 2 years, in which time I have installed Ubuntu, Fedora, Debian, Gentoo and Arch on physical hardware and virtualised many other distros. My other interest include:
+
+- Unix philosophy
+- OS engineering
+- C/C++ programming
+- Functional programming
+- ML/AI with Python
+- Scientific modelling
+- Emacs, Vim, Neovim etc.
+- Shell scripting
+- Window managers
+- System configuration
+
+
+Thanks for taking the time to look at my work!
+
+
+     ' '
+    \___/
